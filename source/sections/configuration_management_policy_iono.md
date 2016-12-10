@@ -1,6 +1,6 @@
 # Configuration Management Policy
 
-Catalyze standardizes and automates configuration management through the use of Salt scripts as well as documentation of all changes to production systems and networks. Salt automatically configures all Catalyze systems according to established and tested policies, and is used as part of our Disaster Recovery plan and process.
+Iono standardizes and automates configuration management through the use of Salt scripts as well as documentation of all changes to production systems and networks. Salt automatically configures all Iono systems according to established and tested policies, and is used as part of our Disaster Recovery plan and process.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
